@@ -28,9 +28,10 @@ A desktop application built with Python and Tkinter for managing course schedule
    python timetable.py
    
 4.Enter the path to your CSV file when prompted.
-5.Select the year and department to filter courses.
-6.Add courses by selecting them from the list.
-7.Save your timetable.
+5. Select the year and department to filter courses.
+6. Add courses by selecting them from the list.
+7. Save your timetable.
+
 
 ## Notes
 
